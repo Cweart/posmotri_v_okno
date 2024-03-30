@@ -52,6 +52,8 @@ button {
 
 .result {
   padding-top: 78px;
+  max-width: 711px;
+  width: 100%;
 }
 
 .result__video-container {
